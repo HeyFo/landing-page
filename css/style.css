@@ -56,7 +56,7 @@ font-family: 'Roboto', sans-serif;
     Normalize  
 ---------------------------------------------------- */
 :root {
-  --ltn__secondary-color: #b5db95;
+  --ltn__secondary-color: #99e45c;
   --ltn__heading-color: #071c1f;
   --ltn__paragraph-color: #071c1f;
   --ltn__heading-font: 'Rajdhani', sans-serif;
@@ -6000,6 +6000,9 @@ body {
 @media (max-width: 767px) {
   .ltn__service-item-1 .service-item-brief {
     padding: 30px 22px 10px; } }
+
+.service-info-wrap .btn-wrapper {
+  margin-top: 40px; }
 
 /* ----------------------------------------------------
     Call To Action
